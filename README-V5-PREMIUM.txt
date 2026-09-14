@@ -43,3 +43,4 @@ WHATSAPP
 
 NOTA
 La "Inteligencia ESSENCE" de esta versión es analítica basada en reglas y datos del panel; no es un servicio de IA externo.
+  V5 PREMIUM - actualización ESSENCE
